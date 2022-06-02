@@ -1,3 +1,3 @@
 # SoftUni-problems
-interesting problems
+interesting problems/
 some ot the houmeworks (almost all)
